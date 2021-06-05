@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-06-05T09:50:32.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="s6hJVynFP0LBBRxT7SvT" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-05T09:55:24.263Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="7ijvOg_PowL3ZP1VgPd9" version="14.7.6" type="github">
   <diagram id="Tzsab7TEmbpVxt9a82yq" name="Page-1">
-    <mxGraphModel dx="1113" dy="695" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="844" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Qlbsyc2_m0PB5lbpOPyH-4" value="&lt;font style=&quot;font-size: 28px&quot;&gt;BlockChain&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#B1B7B8;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Qlbsyc2_m0PB5lbpOPyH-4" value="&lt;font style=&quot;font-size: 28px&quot; color=&quot;#66586d&quot;&gt;BlockChain&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#3A5431;strokeWidth=3;fontColor=#ffffff;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="120" width="530" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Qlbsyc2_m0PB5lbpOPyH-16" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.cluster_server;strokeColor=#FF904F;strokeWidth=1;perimeterSpacing=10;sketch=0;fillColor=#FF904F;" vertex="1" parent="1">
@@ -43,20 +43,20 @@
         <mxCell id="Qlbsyc2_m0PB5lbpOPyH-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/note-128.png;shadow=0;sketch=0;strokeColor=#B1B7B8;strokeWidth=1;fillColor=#FF904F;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="187" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qlbsyc2_m0PB5lbpOPyH-31" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientColor=none;gradientDirection=north;strokeWidth=7;shape=mxgraph.networks.radio_tower;shadow=0;sketch=0;strokeColor=#5D74A1;perimeterSpacing=4;fillColor=#5D74A1;" vertex="1" parent="1">
-          <mxGeometry x="211" y="335" width="30" height="50" as="geometry" />
+        <mxCell id="Qlbsyc2_m0PB5lbpOPyH-31" value="BS" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientColor=none;gradientDirection=north;strokeWidth=7;shape=mxgraph.networks.radio_tower;shadow=0;sketch=0;strokeColor=#5D74A1;perimeterSpacing=4;fillColor=#5D74A1;" vertex="1" parent="1">
+          <mxGeometry x="213" y="327" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qlbsyc2_m0PB5lbpOPyH-32" value="" style="ellipse;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeWidth=2;gradientColor=none;strokeColor=#59A18B;dashed=1;fillColor=#EDF7F5;" vertex="1" parent="1">
           <mxGeometry x="65" y="430" width="240" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="Qlbsyc2_m0PB5lbpOPyH-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-networking-and-communication-glyph-24/24/Communication_tower_signal_tower_wifi_antenna_wifi_tower_wireless_antenna-128.png;shadow=0;dashed=1;sketch=0;strokeColor=#000000;strokeWidth=0;fillColor=#5C5C5C;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="Qlbsyc2_m0PB5lbpOPyH-35" value="RSU" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-networking-and-communication-glyph-24/24/Communication_tower_signal_tower_wifi_antenna_wifi_tower_wireless_antenna-128.png;shadow=0;dashed=1;sketch=0;strokeColor=#000000;strokeWidth=0;fillColor=#5C5C5C;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="195" y="457" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qlbsyc2_m0PB5lbpOPyH-37" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientColor=none;gradientDirection=north;strokeWidth=7;shape=mxgraph.networks.radio_tower;shadow=0;sketch=0;strokeColor=#5D74A1;perimeterSpacing=4;fillColor=#5D74A1;" vertex="1" parent="1">
+        <mxCell id="Qlbsyc2_m0PB5lbpOPyH-37" value="BS" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientColor=none;gradientDirection=north;strokeWidth=7;shape=mxgraph.networks.radio_tower;shadow=0;sketch=0;strokeColor=#5D74A1;perimeterSpacing=4;fillColor=#5D74A1;" vertex="1" parent="1">
           <mxGeometry x="325" y="370" width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Qlbsyc2_m0PB5lbpOPyH-39" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientColor=none;gradientDirection=north;strokeWidth=7;shape=mxgraph.networks.radio_tower;shadow=0;sketch=0;strokeColor=#5D74A1;perimeterSpacing=4;fillColor=#5D74A1;" vertex="1" parent="1">
-          <mxGeometry x="509" y="310" width="30" height="50" as="geometry" />
+        <mxCell id="Qlbsyc2_m0PB5lbpOPyH-39" value="BS" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;gradientColor=none;gradientDirection=north;strokeWidth=7;shape=mxgraph.networks.radio_tower;shadow=0;sketch=0;strokeColor=#5D74A1;perimeterSpacing=4;fillColor=#5D74A1;" vertex="1" parent="1">
+          <mxGeometry x="506" y="306" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qlbsyc2_m0PB5lbpOPyH-45" value="" style="shape=mxgraph.signs.transportation.car_3;html=1;pointerEvents=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#5C5C5C;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="108" y="520" width="50" height="20" as="geometry" />
@@ -106,7 +106,7 @@
         <mxCell id="Qlbsyc2_m0PB5lbpOPyH-58" value="" style="ellipse;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeWidth=2;gradientColor=none;strokeColor=#59A18B;dashed=1;fillColor=#EDF7F5;" vertex="1" parent="1">
           <mxGeometry x="410" y="415" width="240" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="Qlbsyc2_m0PB5lbpOPyH-59" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-networking-and-communication-glyph-24/24/Communication_tower_signal_tower_wifi_antenna_wifi_tower_wireless_antenna-128.png;shadow=0;dashed=1;sketch=0;strokeColor=#000000;strokeWidth=0;fillColor=#5C5C5C;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="Qlbsyc2_m0PB5lbpOPyH-59" value="RSU" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-networking-and-communication-glyph-24/24/Communication_tower_signal_tower_wifi_antenna_wifi_tower_wireless_antenna-128.png;shadow=0;dashed=1;sketch=0;strokeColor=#000000;strokeWidth=0;fillColor=#5C5C5C;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="442" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qlbsyc2_m0PB5lbpOPyH-60" value="" style="shape=mxgraph.signs.transportation.car_3;html=1;pointerEvents=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#5C5C5C;strokeColor=none;" vertex="1" parent="1">
@@ -139,11 +139,11 @@
         <mxCell id="Qlbsyc2_m0PB5lbpOPyH-66" value="" style="endArrow=classic;html=1;startSize=3;endSize=4;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="555" y="437" as="sourcePoint" />
-            <mxPoint x="529" y="371" as="targetPoint" />
+            <mxPoint x="535" y="387" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qlbsyc2_m0PB5lbpOPyH-67" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.encrypted_data;fillColor=#7D7C7C;gradientColor=none;shadow=0;sketch=0;strokeColor=#000000;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="497" y="385" width="24" height="35" as="geometry" />
+        <mxCell id="Qlbsyc2_m0PB5lbpOPyH-67" value="Data" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.encrypted_data;fillColor=#7D7C7C;gradientColor=none;shadow=0;sketch=0;strokeColor=#000000;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="559" y="380" width="24" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Qlbsyc2_m0PB5lbpOPyH-71" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.cluster_server;strokeColor=#FF904F;strokeWidth=1;perimeterSpacing=10;sketch=0;fillColor=#FF904F;" vertex="1" parent="1">
           <mxGeometry x="330" y="240" width="40" height="50" as="geometry" />
@@ -165,7 +165,7 @@
         </mxCell>
         <mxCell id="Qlbsyc2_m0PB5lbpOPyH-76" value="" style="endArrow=classic;html=1;startSize=3;endSize=4;strokeWidth=4;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="556" y="325" as="sourcePoint" />
+            <mxPoint x="546" y="337" as="sourcePoint" />
             <mxPoint x="588" y="259" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -186,6 +186,17 @@
         </mxCell>
         <mxCell id="Qlbsyc2_m0PB5lbpOPyH-82" value="model" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;shadow=0;sketch=0;fillColor=#66586D;" vertex="1" parent="1">
           <mxGeometry x="108" y="173" width="37" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Qlbsyc2_m0PB5lbpOPyH-84" value="" style="endArrow=classic;html=1;startSize=3;endSize=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="261" y="496" as="sourcePoint" />
+            <mxPoint x="243" y="397" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qlbsyc2_m0PB5lbpOPyH-86" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Cellular network&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qlbsyc2_m0PB5lbpOPyH-84">
+          <mxGeometry x="-0.3312" y="1" relative="1" as="geometry">
+            <mxPoint x="12" y="-15" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
