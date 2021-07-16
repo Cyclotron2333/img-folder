@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T03:09:44.971Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.7.6" etag="2mx-qHO_XCLRLWHJdUDk" type="github"><diagram id="bCdpgkrbtKNPYiYGUBVJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-16T03:19:33.291Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="vLr_-loPid7FforlYOvh" version="14.7.6" type="github">
+  <diagram id="bCdpgkrbtKNPYiYGUBVJ" name="Page-1">
+    <mxGraphModel dx="1113" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wCBpPptbkixyY0IPCMcS-1" value="IPFS协议栈&lt;br&gt;IPFS PROTOCAL STACK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-510" width="490" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wCBpPptbkixyY0IPCMcS-2" value="身份层（Identity）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-460" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wCBpPptbkixyY0IPCMcS-3" value="&lt;div&gt;S/Kademlia算法增加创建新身份的成本&lt;/div&gt;&lt;div&gt;对等节点身份信息生成、验证&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-460" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wCBpPptbkixyY0IPCMcS-4" value="网络层（Network）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-410" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wCBpPptbkixyY0IPCMcS-5" value="&lt;div&gt;支持任意传输层协议、 Overlay网络&lt;/div&gt;&lt;div&gt;WertRTC &amp;amp; ICE NET &amp;amp; NAT穿透&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-410" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wCBpPptbkixyY0IPCMcS-6" value="路由层（Routing）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-360" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wCBpPptbkixyY0IPCMcS-7" value="&lt;div&gt;分布式哈希表(DHT)&lt;/div&gt;&lt;div&gt;定位对等点和存储对象需要的信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-360" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wCBpPptbkixyY0IPCMcS-8" value="交换层（Exchange）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-310" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wCBpPptbkixyY0IPCMcS-9" value="&lt;div&gt;BitTorrent &amp;amp; BitSwap&lt;/div&gt;&lt;div&gt;保证节点网络稳定、激励交换数据行为&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-310" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wCBpPptbkixyY0IPCMcS-10" value="对象层（Object）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-260" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wCBpPptbkixyY0IPCMcS-11" value="&lt;div&gt;Merkle-DaG IPLD&lt;/div&gt;&lt;div&gt;内容可寻址的不可篡改、去冗余的对象链接&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-260" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wCBpPptbkixyY0IPCMcS-16" value="文件层（File）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-210" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wCBpPptbkixyY0IPCMcS-17" value="&lt;div&gt;类似Git&lt;/div&gt;&lt;div&gt;版本控制的文件系统:blob,list,tree,commit&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-210" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wCBpPptbkixyY0IPCMcS-18" value="命名层（Naming）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-160" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wCBpPptbkixyY0IPCMcS-19" value="&lt;div&gt;具有SFS(Self-Certified Filesystems)&amp;amp; IPNS&lt;/div&gt;&lt;div&gt;DNS TXT解析、 Proquint可发音域名绑定&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-160" width="340" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
